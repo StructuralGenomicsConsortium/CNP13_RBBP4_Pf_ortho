@@ -1,6 +1,6 @@
 # CNP13-RBBP4_Pf_ortho
 
-An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 14 devoted to protein WDR91.
+An [SGC]((https://www.thesgc.org/)) Open Chemistry Networks Project 13 devoted to Pfal RBBP4 orthologue
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
