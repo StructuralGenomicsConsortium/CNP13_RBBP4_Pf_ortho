@@ -17,7 +17,7 @@ Prof. Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd
 
 Dr. Levon Halabelian, UoT, SGC Toronto
 
-peter loppnau, Protein Production, UoT, SGC Toronto
+Peter loppnau, Protein Production, UoT, SGC Toronto
 
 Mohsen Alamoudi, UCL, PhD candidate in School of Pharmacy
 
