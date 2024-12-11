@@ -16,7 +16,8 @@ People involved in this CNP:
 Prof. Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd  
 Dr. Levon Halabelian, UoT, SGC Toronto  
 Peter Loppnau, Protein Production, UoT, SGC Toronto  
-Mohsen Alamoudi, UCL, PhD candidate in School of Pharmacy, UCL @MohsenAlamoudi    
+Mohsen Alamoudi, UCL, PhD candidate in School of Pharmacy, UCL @MohsenAlamoudi 
+Fengling Li, Biopysical assays, UoT, SGC Toronto
 
 You can see other contributors in the Issues (tab above).
 
